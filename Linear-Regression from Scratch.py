@@ -31,3 +31,4 @@ for step in range(iteration):
 print(f"\nFinal equation: y = {m:.2f}x + {c:.2f}")
 
 #"Feel free to play around with the m, c, L, and iteration variables.
+### ANkit is jhatu 
