@@ -1,4 +1,4 @@
-# ML-tinkerer
+# ML-Centric
 
 A personal ML library.
 
